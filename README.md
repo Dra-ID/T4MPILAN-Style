@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# T4MPILAN-Style
-> Kalian harus install dulu cara install SH module.sh
+# MODULE Style
+> Kalian harus install dulu cara install sh module.sh
 > Subscribe my channel
 > https://youtube.com/@vindradoang
 
