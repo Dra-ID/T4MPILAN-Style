@@ -1,2 +1,4 @@
 # T4MPILAN-Style
-TAMPILAN TERMUX KEREN 😵😎
+> Kalian harus install dulu cara install SH module.sh
+> Subscribe my channel
+> https://youtube.com/@vindradoang
