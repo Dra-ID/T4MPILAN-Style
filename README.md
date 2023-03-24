@@ -1,4 +1,8 @@
+<p align=left> <img src=https://komarev.com/ghpvc/?username=vindraid alt=Demias/> </p>
 ### Hi there, I'm Vindra Executor  👋
+
+> module.sh
+
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/Vindra/badges/large"/><br /><br />
