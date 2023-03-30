@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # MODULE Style
 > Kalian harus install dulu cara install sh module.sh
 > Subscribe my channel
-> https://youtube.com/@vindradoang
+> https://youtube.com/@vindradesign
 
 # S
 Screenshot_20230104-122648-1.jpg
