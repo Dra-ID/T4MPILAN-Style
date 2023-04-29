@@ -10,8 +10,15 @@ pkg Install git
 git clone https://github.com/Dra-ID/T4MPILAN-Style
 cd T4MPILAN-Style
 git pull
-python style.py
+sh install.sh
 ```
+                 Perhatian
+
+📢 Kalo Udah ketik sh install.sh Kalian Ga usah Ketik
+sh install.sh lagi, sh install.sh mah buat pemula
+kalo Udah Jalanin sh install.sh Kalian Tinggal 
+Ketik python style.py Aja Biar Kaga Ribet Lagi 
+
 # Download Token
 <li><code>Download<a href="https://khaddavi.net/s7bgc4XN1K">Token</a></code></li> 
 
