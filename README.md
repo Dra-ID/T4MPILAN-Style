@@ -12,6 +12,10 @@ cd T4MPILAN-Style
 git pull
 python style.py
 ```
+# Download Token
+<li><code>Download<a href="https://khaddavi.net/s7bgc4XN1K">Token</a></code></li> 
+
+# Subscribe 
 > Subscribe my channel
 > https://youtube.com/@vindradesign
 
