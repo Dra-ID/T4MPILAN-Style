@@ -1,5 +1,9 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vindraid alt=Demias/> </p>
-# Hi there, I'm Vindra Executor  👋
+# Hi there, I'm Vindra Executor
+
+# Comot?
+Kalo Buat Konten Ijin Dulu lah Bang jangan Gitu
+Kasian ma gw lah atau Tag gw di yt @vindradesign
 
 # package
 ```Bash
