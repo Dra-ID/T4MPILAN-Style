@@ -8,14 +8,20 @@ Kasian ma gw lah atau Tag gw di yt @vindradesign
 # package
 ```Bash
 pkg update && pkg upgrade 
-pkg Install python
-pkg Install python2
-pkg Install git
+pkg install python
+pkg install python2
+pkg install git
 git clone https://github.com/Dra-ID/T4MPILAN-Style
 cd T4MPILAN-Style
 git pull
 sh install.sh
 ```
+# tutorial 
+
+Tutorialnya di yt klik link di bawah
+https://youtu.be/CUnoGSURVBc
+
+# Warnning
                  Perhatian
 
 📢 Kalo Udah ketik sh install.sh Kalian Ga usah Ketik
