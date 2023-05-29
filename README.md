@@ -36,6 +36,8 @@ Ketik python style.py Aja Biar Kaga Ribet Lagi
 > Subscribe my channel
 > https://youtube.com/@vindradesign
 
+# info script 
+SCRIPT 100% AMAN TAMPILAN KEREN
 
                  Foto
 <a href="https://ibb.co/v36NNwW"><img src="https://i.ibb.co/y6czzfC/Screenshot-20230430-012943-2.jpg" alt="Screenshot-20230430-012943-2" border="0"></a>
