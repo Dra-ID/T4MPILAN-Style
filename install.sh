@@ -1,3 +1,4 @@
+pip install rich
 pkg install lolcat
 pkg install screenfetch
 pkg install cowsay
