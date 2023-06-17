@@ -3,7 +3,7 @@
 
 # Comot?
 Kalo Buat Konten Ijin Dulu lah Bang jangan Gitu
-Kasian ma gw lah atau Tag gw di yt @vindradesign
+Kasian ma gw lah atau Tag gw di yt @vindradesign ya cuy
 
 # package
 ```Bash
