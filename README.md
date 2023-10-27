@@ -5,6 +5,10 @@
 Kalo Buat Konten Ijin Dulu lah Bang jangan Gitu
 Kasian ma gw lah atau Tag gw di yt @vindradesign ya cuy
 
+```
+Kalo kalian Ingin Promosikan Tampilan Kalian Boleh Chat Di
+083809192307
+```
 # package
 ```Bash
 pkg update && pkg upgrade 
